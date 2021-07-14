@@ -1,4 +1,4 @@
-1. The navbar links are not all working good.
-2. The site title is not very descriptive(does just say "website")
+1. The navbar links are not all working good. ✅
+2. The site title is not very descriptive(does just say "website") ✅
 3. The images do not have good alt attributes.
 4. The README.md file is missing from the repo.
